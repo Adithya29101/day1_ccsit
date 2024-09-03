@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: blue;background-color: aqua;
+    border-style: double;
+    border-color: aquamarine;
+}
+p{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIGHixA9HID6W16L6vuKBZ-yvfVCIcXse2Q&s") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+li{
+    list-style-type: lower-roman;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+table,th,td{
+    border: 3px solid slateblue;
+    text-align: center;
+    width: 40%;
+}
+.head2{
+    background-color: whitesmoke;
+    margin: 40px 30p 60px 70px;
+    padding: 40px;
+    border-radius: 90px;
+}
